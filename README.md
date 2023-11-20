@@ -3,7 +3,7 @@
 Hey! Estoy trabajando en directo! 
 
 void main(){
-PUES YO QUIERO PONERLO ASÍ! JÓDETE!
+estoy cambiando el main
 }
 
 
