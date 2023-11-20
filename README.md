@@ -8,5 +8,5 @@ PUES YO QUIERO PONERLO ASÍ! JÓDETE!
 
 
 void function(){
-HE BORRADO DESDE EL SERVIDOR! MUAHAHHA
+y yo estoy cambiando el function
 }
